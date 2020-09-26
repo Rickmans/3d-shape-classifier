@@ -1,5 +1,5 @@
 # Blender script for generation of datasets of random 3d shape images
-# The script generates objects with different locations, rotations and lightning.
+# The script generates objects with different locations, rotations and lighting.
 # Written using Blender 2.80 and Python 3.7.0
 
 # If Blender is added to path, it is possible to run the script directly in the
